@@ -10,8 +10,7 @@
   grid-template-rows: auto;
   grid-template-columns: 1fr;
   justify-items: center;
-  column-gap: 48px;
-  row-gap: 46px;
+  gap: 46px 48px;
 
   @media (min-width: 488px) {
     grid-template-columns: 1fr 1fr;
